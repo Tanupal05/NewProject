@@ -1,1 +1,1 @@
-# NewProject
+# This project showcases a personal portfolio website built with HTML and CSS. It highlights skills, projects, and contact information in a clean and visually appealing format. Ideal for showcasing professional profiles and portfolios online.
